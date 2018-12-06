@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\vb1\MyprojectLab1\MyprojectLab1\bin\Debug\MyprojectLab1.exe
+C:\Users\user\Desktop\vb1\MyprojectLab1\MyprojectLab1\bin\Debug\MyprojectLab1.pdb
+C:\Users\user\Desktop\vb1\MyprojectLab1\MyprojectLab1\bin\Debug\MyprojectLab1.xml
+C:\Users\user\Desktop\vb1\MyprojectLab1\MyprojectLab1\obj\x86\Debug\MyprojectLab1.Resources.resources
+C:\Users\user\Desktop\vb1\MyprojectLab1\MyprojectLab1\obj\x86\Debug\MyprojectLab1.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\vb1\MyprojectLab1\MyprojectLab1\obj\x86\Debug\MyprojectLab1.exe
+C:\Users\user\Desktop\vb1\MyprojectLab1\MyprojectLab1\obj\x86\Debug\MyprojectLab1.xml
+C:\Users\user\Desktop\vb1\MyprojectLab1\MyprojectLab1\obj\x86\Debug\MyprojectLab1.pdb
+C:\Users\user\Desktop\vb1\MyprojectLab1\MyprojectLab1\obj\x86\Debug\MyprojectLab1.Formlab1.resources
+C:\Users\user\Desktop\vb1\MyprojectLab1\MyprojectLab1\obj\x86\Debug\MyprojectLab1.Formlab2.resources
